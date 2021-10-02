@@ -7,8 +7,8 @@
 
 - 🎓 &nbsp; MSc Business Analytics & Big Data - MSc Marketing Analytics
 - 🎓 &nbsp; Nanodegree Machine Learning DevOps Engineer
-- 💼 &nbsp; Working as a Machine Learning Engineer at Lio Capital.
-- 🌱 &nbsp; Learning more about MLOps, Artificial Intelligence and Software Engineering. 
+- 💼 &nbsp; Working as Machine Learning Engineer at Lio Capital.
+- 🌱 &nbsp; Learning more about MLOps and Deep Learning. 
 - ⚡ &nbsp; Practicing Calisthenics and free running.    
 
 
