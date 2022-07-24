@@ -5,11 +5,9 @@
 
 <img align ="right" src = "https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="250" height="250">
 
-- 🎓 &nbsp; MSc Business Analytics & Big Data - MSc Marketing Analytics
-- 🎓 &nbsp; Nanodegree Machine Learning DevOps Engineer
-- 💼 &nbsp; Working as Machine Learning Engineer at Lio Capital.
-- 🌱 &nbsp; Learning more about MLOps and Deep Learning. 
-- ⚡ &nbsp; Practicing Calisthenics and free running.    
+- 💼 &nbsp; Working as a Data Scientist/ML Engineer
+- 🌱 &nbsp; Passionate about artificial neural networks 
+- ⚡ &nbsp; Practicing calisthenics and free running.    
 
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/brennankbrown/)](https://www.linkedin.com/in/ndinicola/)
