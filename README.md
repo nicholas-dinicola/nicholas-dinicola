@@ -5,8 +5,8 @@
 
 <img align ="right" src = "https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="250" height="250">
 
-- 💼 &nbsp; Working as a Data Scientist/ML Engineer
-- 🌱 &nbsp; Passionate about artificial neural networks 
+- 💼 &nbsp; Working as ML Engineer. 
+- 🌱 &nbsp; Passionate about software development. 
 - ⚡ &nbsp; Practicing calisthenics and free running.    
 
 
